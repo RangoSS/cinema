@@ -1,0 +1,2 @@
+<br><br><div style='background-color:white;width:500px;height:50px;margin:auto;padding:15px;'><center>
+<a href='offers.php'>Special Offers</a> - <a href='terms.php'>Terms of use</a><hr> Copyright &copy Morning Star Hotels 2015</div>
